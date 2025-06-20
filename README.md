@@ -2,7 +2,7 @@
 ### A Reflective AI Engine of Beliefs, Contradictions, and Reasoning
 
 **Tarka** is a symbolic AI system that models cognition not through weights or layers — but through **beliefs**, **contradictions**, and **questions**.  
-Inspired by Indian logic (*Tarka Shastra*) and built for explainability, it simulates a reflective mind that can reason, question itself, and evolve.
+Inspired by Indian logic (*Tarka*) and built for explainability, it simulates a reflective mind that can reason, question itself, and evolve.
 
 ---
 
